@@ -1,11 +1,20 @@
-
 # Nuts & Bites website: premium snacks and gifting organised around product discovery
 
 **Nuts & Bites is a food and gifting brand featured in the [Tech Conversion](https://techconversion.tech/) website portfolio. The project is presented as a refined ecommerce experience for premium nuts, chocolate treats and gift selections. Tech Conversion's saved project invoice identifies the commissioned work as a custom WordPress website, with the focus on presenting the products clearly and helping shoppers move from browsing to an informed purchase or enquiry.**
 
-![Nuts & Bites original gold N&B monogram from Tech Conversion's client showcase](images/nuts-bites-original-monogram.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/nuts-and-bites-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/nuts-and-bites-website-mockup.webp" alt="Nuts & Bites website mockup by Tech Conversion" width="100%" />
+  </a>
+</p>
 
-*Genuine saved Nuts & Bites logo extracted from Tech Conversion's client-showcase materials. This is a brand asset, **not a screenshot of the production shop**.*
+<p align="center">
+  <a href="https://techconversion.tech/portfolio"><strong>Tech Conversion portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/api/media/portfolio/nuts-and-bites-website-home-page.webp"><strong>Full-page website screenshot</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/TechConversionOfficial/Nuts-Bites-websites-"><strong>GitHub repository</strong></a>
+</p>
 
 | | |
 |---|---|
@@ -17,7 +26,7 @@
 | **Built by / project credit** | [Tech Conversion](https://techconversion.tech/), Chennai, India |
 | **Documented engagement** | Custom WordPress website development (saved original client invoice) |
 | **Portfolio listing** | [techconversion.tech/portfolio](https://techconversion.tech/portfolio) |
-| **GitHub repository** | [TechConversionOfficial/Nuts-Bites-websites-](https://github.com/TechConversionOfficial/Nuts-Bites-websites-) — existing public repository |
+| **GitHub repository** | [TechConversionOfficial/Nuts-Bites-websites-](https://github.com/TechConversionOfficial/Nuts-Bites-websites-) |
 | **Ecommerce platform detail** | WordPress development documented; specific shopping, payment and fulfilment plugins not independently verified |
 
 ## About the business
@@ -27,7 +36,7 @@
 - **What visitors need to know:** products, pack sizes, ingredients and allergens, presentation, price, availability and delivery arrangements can all influence a purchase decision.
 - **Why the website matters:** premium food purchases are visual and detail-led. Shoppers need a clear product description and an easy route to order or contact the business.
 
-The brand is identifiable through the original **gold N&B monogram** included in the Tech Conversion client portfolio. The published portfolio description and the saved project engagement establish the project relationship. The exact current catalogue, pricing, business address and official store URL were not independently confirmed.
+The brand is identifiable through the original Tech Conversion project records. The published portfolio description and the saved project engagement establish the project relationship. The exact current catalogue, pricing, business address and official store URL were not independently confirmed.
 
 ## The problem
 
@@ -45,70 +54,46 @@ The portfolio identifies the project as a premium ecommerce presentation, and th
 2. **Separate snacking from gifting.** Product discovery should help visitors distinguish everyday nuts and chocolate treats from assortments intended for presents or celebrations.
 3. **Explain each item clearly.** Product information should identify relevant pack sizes, contents, ingredients, allergen warnings and storage guidance where applicable.
 4. **Keep the shopping journey direct.** Visitors should be able to move from a collection to product information and the next purchasing action without unnecessary detours.
-5. **Make the brand recognisable.** The original gold N&B monogram provides an identifiable visual asset for the project's premium positioning.
+5. **Make the brand recognisable.** The project's premium presentation should remain visually consistent and easy to distinguish.
 6. **Consider mobile shoppers.** Category navigation, product images, prices and ordering actions need to remain usable on a phone. Independent responsive testing results were not available.
 7. **Support trust before purchase.** Delivery, return, contact and food-related information should be easy to find and consistent with the seller's actual policies.
 8. **Use the documented WordPress scope responsibly.** The original invoice identifies a custom WordPress website. It does not establish a specific ecommerce plugin, payment provider, inventory integration or fulfilment workflow.
 
-## Project images and visual direction
+## Website and project images
 
-Only the original brand logo and the brand's appearance in a saved Tech Conversion client-showcase PDF were available as authenticated **Nuts & Bites-specific** visual assets. The following files are provided locally in this repository; no stock product images, unrelated websites or AI-generated designs have been used.
+### Official website mockup
 
-### Original Nuts & Bites brand identity
+The following Tech Conversion portfolio mockup presents Nuts & Bites as a polished premium food and gifting ecommerce project.
 
-![Original Nuts & Bites gold monogram logo](images/nuts-bites-original-monogram.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/nuts-and-bites-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/nuts-and-bites-website-mockup.webp" alt="Nuts & Bites responsive ecommerce website portfolio mockup" width="100%" />
+  </a>
+</p>
 
-The gold N&B monogram is a distinctive identity asset. It can be used as a reference when documenting the website's premium food and gifting positioning.
+*Click the image to open the full-resolution mockup.*
 
-### Tech Conversion client showcase
+### Full-length website screenshot
 
-![Nuts & Bites branding in Tech Conversion's saved client showcase](images/nuts-bites-tech-conversion-client-card.webp)
+The following image is the complete homepage capture supplied through Tech Conversion's project media.
 
-This image is a saved client-showcase presentation containing the same brand identity. It is **not an additional website screenshot**.
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/nuts-and-bites-website-home-page.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/nuts-and-bites-website-home-page.webp" alt="Nuts & Bites complete premium snacks and gifting website homepage screenshot" width="100%" />
+  </a>
+</p>
 
-### Homepage and product presentation
+<p align="center">
+  <strong>Click the screenshot to open the full-resolution image.</strong>
+</p>
 
-A genuine screenshot of the final Nuts & Bites homepage should be added here once it is available.
+### Image provenance
 
-<!--
-![Nuts & Bites ecommerce homepage](images/nuts-bites-homepage.webp)
--->
+The website mockup and full-page screenshot above are embedded from Tech Conversion's public project-media endpoints. They replace the earlier README's local `images/...` brand-asset placeholders and the `IMAGE-SOURCES.md` dependency.
 
-### Product collections
+These images document the Nuts & Bites website project visually, but they are **not evidence of measured increases in product sales, order conversion rate, traffic, search visibility, page speed, gifting enquiries or revenue**.
 
-A screenshot showing the site's actual nuts, chocolates or gifting collections should be added here after the original image is supplied.
-
-<!--
-![Nuts & Bites product collections](images/nuts-bites-product-collections.webp)
--->
-
-### Product detail and shopping experience
-
-A verified product page screenshot would help document how customers inspect product descriptions, prices and ordering information.
-
-<!--
-![Nuts & Bites product detail and shopping experience](images/nuts-bites-product-detail.webp)
--->
-
-### Premium gifting presentation
-
-A genuine gifting collection or gift-box image can be added to show how the website presents products intended for special occasions.
-
-<!--
-![Nuts & Bites premium gifting collection](images/nuts-bites-gifting.webp)
--->
-
-### Mobile website experience
-
-A screenshot of the actual mobile storefront should be added to demonstrate the responsive browsing experience.
-
-<!--
-![Nuts & Bites mobile ecommerce website](images/nuts-bites-mobile.webp)
--->
-
-These placeholders are written as **HTML comments**, so GitHub will not show broken image icons while the screenshots are missing. Replace them with normal Markdown image references after uploading the corresponding authentic files.
-
-See [IMAGE-SOURCES.md](IMAGE-SOURCES.md) for the source of the two included visuals.
+Because the project images are externally hosted, GitHub rendering depends on the Tech Conversion URLs remaining publicly accessible. For a fully self-contained repository, client-approved copies can later be stored in an `images/` directory and referenced using relative paths.
 
 ## Key visitor journeys
 
@@ -143,15 +128,13 @@ No independent accessibility audit, performance benchmark, checkout test, food-l
 
 ## Before and after
 
-A dated pair of old and new production-site screenshots for Nuts & Bites was not available in the reviewed project files.
+A full-page screenshot of the delivered Nuts & Bites website is available and included above. However, **no authenticated historical BEFORE screenshot or dated old-versus-new comparison was supplied for this project**, so this README does not manufacture a redesign comparison.
 
-The saved images above document the brand identity and its inclusion in a Tech Conversion client presentation, **not a before-and-after website comparison**.
-
-An authentic comparison can be added once dated browser screenshots from both versions of the website are available.
+Other documented transformations can be explored at [Tech Conversion's before-and-after gallery](https://techconversion.tech/before-after).
 
 ## Results
 
-**Supported by the available record:** Nuts & Bites appears in Tech Conversion's public portfolio as a food-and-gifting ecommerce project. A saved client invoice identifies an engagement for custom WordPress website development. The brand also appears in Tech Conversion's archived client-logo showcase.
+**Supported by the available record:** Nuts & Bites appears in Tech Conversion's public portfolio as a food-and-gifting ecommerce project. A saved client invoice identifies an engagement for custom WordPress website development.
 
 **Not independently measured:** website visits, product sales, order conversion rate, average order value, abandoned checkouts, search visibility, mobile performance or revenue attributed to the website.
 
@@ -163,7 +146,15 @@ No numeric business-growth or technical-performance results are published here. 
 
 - **Portfolio:** [techconversion.tech/portfolio](https://techconversion.tech/portfolio)
 - **Case studies:** [techconversion.tech/case-studies](https://techconversion.tech/case-studies)
+- **Before & after:** [techconversion.tech/before-after](https://techconversion.tech/before-after)
 - **Contact:** [contact@techconversion.tech](mailto:contact@techconversion.tech), +91 91507 86547
 
-This repository is a public portfolio record. It includes only a client-logo asset and documentary presentation material, not the live site's source code, customer orders, financial records, private invoices, hosting details or administrator credentials. Nuts & Bites branding and product intellectual property remain with their respective owners.
+## Repository scope and image credits
 
+This repository is a public portfolio record. It does not contain the live site's source code, customer orders, financial records, private invoices, hosting details or administrator credentials.
+
+The website mockup and full-page screenshot are sourced from Tech Conversion's public project media. Nuts & Bites branding and product intellectual property remain with their respective owners.
+
+---
+
+*Website project showcased by [Tech Conversion](https://techconversion.tech/).*
